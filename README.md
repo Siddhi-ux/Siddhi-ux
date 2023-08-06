@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Prescription based food recommendation system**
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **ML/DL**
 
 - 📫 How to reach me **siddhimanglam@gmail.com**
